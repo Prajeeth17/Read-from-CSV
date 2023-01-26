@@ -5,6 +5,7 @@ To read the contents from a CSV file
 
 ## EQUIPMENTS REQUIRED:
 1.Hardware - PCs
+
 2.Anaconda - Python 3.7
 
 ## ALGORITHM:
